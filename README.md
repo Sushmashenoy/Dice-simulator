@@ -1,1 +1,1 @@
-# Dice-simulator
+The Dice Simulator is a simple Python project that simulates rolling a die using a graphical interface . The project demonstrates basic concepts of GUI programming and object-oriented design. Users can click a button to roll the die, displaying a random number between 1 and 6.
